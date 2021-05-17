@@ -1,5 +1,5 @@
-# wechat-bot
-# 本来准备在本地部署的使用nodejs开发wechaty，然后调用paddlehub的模型生成回复语句，但是最后没能生成，要么wechaty连接不上网关要么会报invalid server，最后参考细菌在在阿里云上部署了一台虚拟主机，最后终于可以实现聊天机器人了。
+# wechat-bot 聊天机器人
+本来准备在本地部署的使用nodejs开发wechaty，然后调用paddlehub的模型生成回复语句，但是最后没能生成，要么wechaty连接不上网关要么会报invalid server，最后参考细菌在在阿里云上部署了一台虚拟主机，最后终于可以实现聊天机器人了。
 效果图
 ![](https://ai-studio-static-online.cdn.bcebos.com/9c50e5194abd4572b11e7dc55fbc6df3f66b08e8b79c497fb8ed43f70692cf56)
 没有小号 就自己和自己聊 😂
